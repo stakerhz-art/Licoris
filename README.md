@@ -57,7 +57,7 @@ LICORIS
     .donate h3 { margin: 10px 0; font-size: 20px; color: var(--accent); }
 
     footer { border-top: 1px solid #222; padding: 28px 0; color: var(--muted); text-align: center; }
-  </style>file:///C:/Users/PC/Pictures/f982c31c-be9f-4419-93d3-377246e9b897.png
+  </style>
 </head>
 <body>
   <header>
