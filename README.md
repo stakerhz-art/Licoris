@@ -1,4 +1,4 @@
-    LICORIS
+LICORIS
 <html lang="ru" data-theme="dark">
 <head>
   <meta charset="utf-8" />
