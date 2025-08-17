@@ -1,11 +1,11 @@
-LICORIS
+<!doctype html>
 <html lang="ru" data-theme="dark">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>ЛИКОРИС — Minecraft сервер</title>
   <meta name="description" content="Официальный сайт Minecraft-сервера ЛИКОРИС: IP, донат, поддержка." />
-  </style>
+  <style>
     :root {
       --bg: #0a0a0a;
       --panel: #111;
@@ -57,7 +57,7 @@ LICORIS
     .donate h3 { margin: 10px 0; font-size: 20px; color: var(--accent); }
 
     footer { border-top: 1px solid #222; padding: 28px 0; color: var(--muted); text-align: center; }
-  </stial>
+  </style>
 </head>
 <body>
   <header>
@@ -79,7 +79,7 @@ LICORIS
 
   <main class="hero container">
     <h1 class="title">Minecraft сервер ЛИКОРИС</h1>
-    <p class="subtitle">Mир для настоящих Войнов. Версия 1.20+ • Ивенты, PvP, выживание, экономика, дипломатия.</p>
+    <p class="subtitle">Красный и чёрный мир для настоящих воинов. Версия 1.20+ • PvP, выживание, экономика.</p>
     <button class="btn" id="copyIp">Скопировать IP</button>
     <p class="subtitle">IP: <b id="serverIp">lycoris.cfd</b></p>
   </main>
