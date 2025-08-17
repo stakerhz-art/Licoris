@@ -117,7 +117,7 @@ LICORIS
       <h2>Поддержка</h2>
       <p style="text-align:center; color:var(--muted)">Возникли вопросы или проблемы? Свяжитесь с нами через Discord или email.</p>
       <div style="display:flex; gap:10px; justify-content:center; margin-top:20px">
-        <a class="btn secondary" href="#">https://discord.gg/mDkU8nAPNd</a>
+        <a class="btn secondary" href="https://discord.gg/mDkU8nAPNd">Discord</a>
         <a class="btn secondary" href="mailto:kirilldgaldak@gmail.com">Email</a>
       </div>
     </div>
