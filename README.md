@@ -59,6 +59,7 @@ LICORIS
     footer { border-top: 1px solid #222; padding: 28px 0; color: var(--muted); text-align: center; }
   </style>
 </head>
+<img src="file:///C:/Users/PC/Pictures/f982c31c-be9f-4419-93d3-377246e9b897.png
 <body>
   <header>
     <div class="container nav">
