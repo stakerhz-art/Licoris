@@ -63,7 +63,7 @@ LICORIS
   <header>
     <div class="container nav">
       <div class="brand">
-        <img src=file:///C:/Users/PC/Pictures/f982c31c-be9f-4419-93d3-377246e9b897.png">
+        <img src="file:///C:/Users/PC/Pictures/f982c31c-be9f-4419-93d3-377246e9b897.png">
         ЛИКОРИС
       </div>
       <nav>
