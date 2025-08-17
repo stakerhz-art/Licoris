@@ -5,7 +5,7 @@ LICORIS
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>ЛИКОРИС — Minecraft сервер</title>
   <meta name="description" content="Официальный сайт Minecraft-сервера ЛИКОРИС: IP, донат, поддержка." />
-  <style>
+  </style>
     :root {
       --bg: #0a0a0a;
       --panel: #111;
