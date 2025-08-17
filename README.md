@@ -80,8 +80,6 @@ LICORIS
   <main class="hero container">
     <h1 class="title">Minecraft сервер ЛИКОРИС</h1>
     <p class="subtitle">LICORIS Мир для настоящих Героев. Версия от1.12.2-1.20+ • Политика, выживание, экономика, Ивенты.</p>
-    <button class="btn" id="copyIp">Скопировать IP</button>
-    <p class="subtitle">IP: <b id="serverIp">lycoris.cfd</b></p>
   </main>
 
   <section id="about">
