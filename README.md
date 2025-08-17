@@ -57,7 +57,7 @@ LICORIS
     .donate h3 { margin: 10px 0; font-size: 20px; color: var(--accent); }
 
     footer { border-top: 1px solid #222; padding: 28px 0; color: var(--muted); text-align: center; }
-  <stial>
+  </stial>
 </head>
 <body>
   <header>
