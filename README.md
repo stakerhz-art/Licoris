@@ -79,7 +79,7 @@ LICORIS
 
   <main class="hero container">
     <h1 class="title">Minecraft сервер ЛИКОРИС</h1>
-    <p class="subtitle">Mир для настоящих Писюнов. Версия 1.20+ • PvP, выживание, экономика, дипломатия.</p>
+    <p class="subtitle">Mир для настоящих Войнов. Версия 1.20+ • Ивенты, PvP, выживание, экономика, дипломатия.</p>
     <button class="btn" id="copyIp">Скопировать IP</button>
     <p class="subtitle">IP: <b id="serverIp">lycoris.cfd</b></p>
   </main>
