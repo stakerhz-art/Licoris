@@ -64,7 +64,7 @@ LICORIS
   <header>
     <div class="container nav">
       <div class="brand">
-        <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="Логотип" />
+        <img src=https://cdn-icons-png.flaticon.com/512/337/337946.png">
         ЛИКОРИС
       </div>
       <nav>
