@@ -63,7 +63,7 @@ LICORIS
   <header>
     <div class="container nav">
       <div class="brand">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAd5LPay2B7gh-PSCKquKZy7mc8jTKEeTOow&s">
+        <img src="https://cdn.discordapp.com/attachments/1402410801377316874/1406615983858384957/file-3QNGEDiAVr3DGVJQeK7H1P.webp?ex=68a31cb8&is=68a1cb38&hm=25a1cac07ebd3e4a6c4bec77dfe27e0038edf9b8c87e43a850e7ef6e2b3421c7">
         ЛИКОРИС
       </div>
       <nav>
