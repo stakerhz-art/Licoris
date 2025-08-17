@@ -59,12 +59,11 @@ LICORIS
     footer { border-top: 1px solid #222; padding: 28px 0; color: var(--muted); text-align: center; }
   </style>
 </head>
-<img src="file:///C:/Users/PC/Pictures/f982c31c-be9f-4419-93d3-377246e9b897.png
 <body>
   <header>
     <div class="container nav">
       <div class="brand">
-        <img src=https://cdn-icons-png.flaticon.com/512/337/337946.png">
+        <img src=file:///C:/Users/PC/Pictures/f982c31c-be9f-4419-93d3-377246e9b897.png">
         ЛИКОРИС
       </div>
       <nav>
